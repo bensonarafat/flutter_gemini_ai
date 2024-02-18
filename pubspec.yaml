@@ -1,7 +1,7 @@
 name: flutter_gemini_ai
-description: A new Flutter package project.
+description: Flutter Gemini Ai
 version: 0.0.1
-homepage:
+homepage: https://github.com/bensonarafat/flutter_gemini_ai
 
 environment:
   sdk: '>=3.1.3 <4.0.0'
